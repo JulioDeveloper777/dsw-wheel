@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/a0a6044e-a497-494e-a5e5-398ede7aa84d)
+
 # DSW-Wheel
 A Modern Platform for DIY Steering Wheel.
 
