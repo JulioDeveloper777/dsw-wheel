@@ -40,13 +40,13 @@ export const ProjectsHome = () => {
         <ProjectItemHome
           title="DSW Gamepad Test"
           description="Teste seu volante ou gamepad."
-          url="https://github.com/Valdemir-DSW"
+          url="/gamepad-test"
           status="DISPONIVEL"
         />
         <ProjectItemHome
           title="Calculadora de Torque"
           description="Calcule o torque, energia e polias de seu volante para obter uma melhor experiência."
-          url="https://github.com/Valdemir-DSW"
+          url="/calculadora-torque"
           status="DISPONIVEL"
         />
       </div>

@@ -7,7 +7,6 @@ import { Header } from "@/app/components/ui/header";
 export default function Download() {
   return (
     <div className="h-screen w-screen bg-[--background] mx-auto my-auto">
-      <Header />
       <ProjectsDownloads />
       <Footer />
     </div>

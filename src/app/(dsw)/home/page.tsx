@@ -7,7 +7,6 @@ import { Header } from "@/app/components/ui/header";
 export default function Home() {
   return (
     <div className="h-screen w-screen bg-[--background]">
-      <Header />
       <IntroductionHome />
       <Carrossel />
       <ProjectsHome />
